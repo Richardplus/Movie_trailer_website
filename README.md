@@ -1,2 +1,2 @@
 # Movie_trailer_website
-Python Project
+Follow teacher Kunal to complete the project
