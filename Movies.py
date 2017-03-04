@@ -1,9 +1,9 @@
 import media
 import fresh_tomatoes
 
-‘‘‘create some instances of movie class
+'''create some instances of movie class
 6 movies created
-’’’ 
+''' 
 
 # movie Titanic
 Titanic = media.Movie("Titanic",
